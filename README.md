@@ -1,4 +1,3 @@
-# williammaccarter.com
+# williammccarter.com
 
-Static website for `williammaccarter.com`, intended for GitHub Pages.
-
+Static website for `williammccarter.com`, intended for GitHub Pages.
